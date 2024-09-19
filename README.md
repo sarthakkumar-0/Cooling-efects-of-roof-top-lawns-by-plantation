@@ -1,0 +1,3 @@
+-Prepared the rooftop with soil and plants, followed by waterproofng layer.
+-Utilizing thermal instrumentation to record temperature(air and surface) and solar radiation.
+-Conducting numerical analysis on the collected data readings.
